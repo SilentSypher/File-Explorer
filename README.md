@@ -1,2 +1,2 @@
-# File Explorer Application (C++11-Compatible)
+# File Explorer Application (in C++11)
 
